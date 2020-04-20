@@ -1,0 +1,1 @@
+go run main.go amqp://<login>:<password>@<host>:5672 <queue_name>
